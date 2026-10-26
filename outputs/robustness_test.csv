@@ -1,0 +1,15 @@
+changed_feature,original_value,tested_value,direction,baseline_crop,predicted_crop,prediction_changed,baseline_confidence_percent,tested_confidence_percent
+N,90.0,80.77066654156084,decreased,rice,rice,False,93.5,95.0
+N,90.0,99.22933345843916,increased,rice,rice,False,93.5,93.0
+P,42.0,33.75352931535321,decreased,rice,rice,False,93.5,75.0
+P,42.0,50.24647068464679,increased,rice,rice,False,93.5,94.5
+K,43.0,30.33801736333497,decreased,rice,rice,False,93.5,72.0
+K,43.0,55.66198263666503,increased,rice,rice,False,93.5,60.0
+temperature,20.87974371,19.61380656001029,decreased,rice,rice,False,93.5,93.5
+temperature,20.87974371,22.14568085998971,increased,rice,rice,False,93.5,93.5
+humidity,82.00274423,76.43679133255974,decreased,rice,rice,False,93.5,63.0
+humidity,82.00274423,87.56869712744027,increased,rice,rice,False,93.5,74.0
+ph,6.502985292000001,6.309500869992532,decreased,rice,rice,False,93.5,93.5
+ph,6.502985292000001,6.69646971400747,increased,rice,rice,False,93.5,92.5
+rainfall,202.9355362,189.19593906878046,decreased,rice,rice,False,93.5,73.5
+rainfall,202.9355362,216.67513333121954,increased,rice,rice,False,93.5,96.0
